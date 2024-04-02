@@ -1,4 +1,5 @@
 # Aussie Add-ons repository for Kodi
+THIS IS NEW THING WHICH WE CAN LEARN
 
 http://aussieaddons.com/installation
 
